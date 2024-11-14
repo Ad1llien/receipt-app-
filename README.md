@@ -4,7 +4,7 @@ receipt app midterm
 
 weather app project for web-front subject
 
-here you can know the weather of each city in the world!
+here you can know the receipt of all dishes in the world!
 
 ![image](https://github.com/user-attachments/assets/762fd167-6c82-4678-a7fa-82aaba825c9a)
 
